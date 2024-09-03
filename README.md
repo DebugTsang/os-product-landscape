@@ -13,5 +13,5 @@
 #### RethinkDB
 
 ### Document-oriented Database
-## Apache Solr
-## TerminusDB
+#### Apache Solr
+#### TerminusDB
